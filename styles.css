@@ -204,3 +204,11 @@ body{
 	color: #fff;
 	height: 25px;
 }
+
+/*Media quary*/
+@media screen and (min-width: 400px){
+	.footer{
+		background: red;
+	}
+
+}
