@@ -14,7 +14,7 @@ body{
 
 .resume{
 	width: 800px;
-	height: 1125px;
+	height: 1500px;
 	background: white;
 	margin: 25px auto;
 	display: flex;
@@ -207,10 +207,10 @@ body{
 
 
 /*Media quary*/
-@media (min-width:1200px){
+/*@media (min-width:1200px){
 	.resume{
 		width: 1200px;
-		/*height: 1150px;*/
+		height: 1150px;
 
 	}
 	.left{
@@ -248,7 +248,7 @@ body{
 {
 		.resume{
 		width: 990px;
-		/*height: 950px;*/
+		height: 950px;
 
 	}
 	.left{
@@ -281,7 +281,7 @@ body{
 {
 	.resume{
 		width: 800px;
-		/*height: 750px;*/
+		height: 750px;
 
 	}
 	.left{
@@ -307,11 +307,11 @@ body{
 }
 
 }
-@media (max-width: 600px)
+/*@media (max-width: 600px)
 {
 	.resume{
 		width: 600px;
-		/*height: 550px;*/
+		height: 550px;
 
 	}
 	.left{
@@ -342,7 +342,7 @@ body{
 {
 	.resume{
 		width: 480px;
-		/*height: 430px;*/
+		height: 430px;
 
 	}
 	.left{
@@ -368,4 +368,4 @@ body{
 	height: 5px;
 }
 
-}
+}*/
